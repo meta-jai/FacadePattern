@@ -1,0 +1,7 @@
+D:\Learning Goals\Q4-2019\Projects\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe.config
+D:\Learning Goals\Q4-2019\Projects\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe
+D:\Learning Goals\Q4-2019\Projects\FacadePattern\FacadePattern\bin\Debug\FacadePattern.pdb
+D:\Learning Goals\Q4-2019\Projects\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csprojAssemblyReference.cache
+D:\Learning Goals\Q4-2019\Projects\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csproj.CoreCompileInputs.cache
+D:\Learning Goals\Q4-2019\Projects\FacadePattern\FacadePattern\obj\Debug\FacadePattern.exe
+D:\Learning Goals\Q4-2019\Projects\FacadePattern\FacadePattern\obj\Debug\FacadePattern.pdb
